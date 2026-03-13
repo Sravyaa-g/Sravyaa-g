@@ -16,10 +16,12 @@
 
 ## 🛠️ Skills
 
-* **Languages:** HTML, CSS, JavaScript
-* **Frameworks/Libraries:** React.js
-* **Tools:** Git, GitHub, VS Code
-* **Other:** Responsive Web Design
+**Languages:** Python
+**Database:** SQL
+**Web Technologies:** HTML, CSS, JavaScript
+**Frameworks/Libraries:** React.js
+**Tools:** Git, GitHub, VS Code
+
 
 ---
 
