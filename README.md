@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Gayatri Sravya
 
-<!--
-**Sravyaa-g/Sravyaa-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate passionate about technology and web development.
+💻 Aspiring **Full Stack Developer** interested in building modern web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+* 🌱 Currently learning **React, JavaScript, and modern web development**
+* 💡 Interested in **Frontend Development and Web Technologies**
+* 🎯 Goal: To start my career as a **Software Developer**
+* 📍 Based in India
+
+---
+
+## 🛠️ Skills
+
+* **Languages:** HTML, CSS, JavaScript
+* **Frameworks/Libraries:** React.js
+* **Tools:** Git, GitHub, VS Code
+* **Other:** Responsive Web Design
+
+---
+
+## 📂 Projects
+
+### 🔬 Blood Cancer Detection using Deep Learning
+
+* Developed a deep learning-based system to classify microscope images of blood samples.
+* Used **transfer learning models** to improve classification accuracy.
+* Focused on analyzing performance using optimizers like **SGD and RMSProp**.
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: Add your LinkedIn profile link here
+* 📧 Email: Add your professional email here
+
+---
+
+⭐ *Thanks for visiting my profile!*
